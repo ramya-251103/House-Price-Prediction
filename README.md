@@ -1,1 +1,1 @@
-# House-Price-Prediction
+House Price Prediction using Linear Regression: Language Used: Python, Libraries: Numpy, Pandas, Matplotlib and Scikit Learn. Developed house price prediction model with and without scikit learn library. The model gives price prediction based on the continuous values of land sizes using the Concept of Supervised Machine Learning, based on a dataset from Kaggle. The concept of the Gradient Descent Algorithm has been applied.
